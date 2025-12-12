@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワイルデスト・ドリームス（テイラーズ・ヴァージョン）",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2025-12-12T04:04:34.194008Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wildest Dreams (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Wildest_Dreams_(Taylor's_Version)_Taylor_Swift.txt"
+    }
+  ]
+}
